@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="probe_equivalent_circuit.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path3841"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3835"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3785">
+      <stop
+         style="stop-color:#949494;stop-opacity:1;"
+         offset="0"
+         id="stop3787" />
+      <stop
+         style="stop-color:#949494;stop-opacity:0;"
+         offset="1"
+         id="stop3789" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3785"
+       id="linearGradient3791"
+       x1="195.96959"
+       y1="252.32137"
+       x2="157.34612"
+       y2="253.33151"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5454545,0,0,1,-241.05913,-66.670068)" />
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3841-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-170.28878"
+     inkscape:cy="976.47344"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1005"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient3791);fill-opacity:1;stroke:none"
+       id="rect3783"
+       width="68.690376"
+       height="260.61935"
+       x="4.0406022"
+       y="56.351776"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 156.57364,57.361922 0,91.923878 91.92388,0"
+       id="path2987"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 156.06857,322.40873 0,-91.92388 91.92388,0"
+       id="path2987-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <rect
+       style="fill:#949494;fill-opacity:1;stroke:none"
+       id="rect3775"
+       width="91.981842"
+       height="17.230553"
+       x="155.5345"
+       y="179.54109"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 248.49752,150.29596 0,81.82235"
+       id="path3779"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 72.730982,57.361922 0,260.619358"
+       id="path3781"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <text
+       xml:space="preserve"
+       style="font-size:27.30802155px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-280.98276"
+       y="57.674515"
+       id="text3793"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan3795"
+         x="-280.98276"
+         y="57.674515">inner conductor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:27.30802155px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-68.645668"
+       y="181.21715"
+       id="text3793-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan3795-4"
+         x="-64.858818"
+         y="181.21715">outer </tspan><tspan
+         sodipodi:role="line"
+         x="-68.645668"
+         y="215.35219"
+         id="tspan4394">conductor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:30.93899345px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="283.43997"
+       y="94.415184"
+       id="text3818"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan3820"
+         x="283.43997"
+         y="94.415184">probe</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 290.92393,112.92031 -63.63961,62.62946"
+       id="path3826"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <g
+       id="g4298"
+       transform="translate(-199.00738,-174.46222)"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4272"
+         d="m 431.33514,406.35476 0,13.65193"
+         style="fill:none;stroke:#604cde;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="translate(115.15739,-14.142136)"
+         inkscape:transform-center-y="2.0360275"
+         d="m 316.17777,445.3234 -3.52651,-6.10808 -3.5265,-6.10808 7.053,0 7.05301,0 -3.5265,6.10808 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.6179939"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="4.0720549"
+         sodipodi:r1="8.1441097"
+         sodipodi:cy="437.17929"
+         sodipodi:cx="316.17776"
+         sodipodi:sides="3"
+         id="path4296"
+         style="fill:#4e5ada;fill-opacity:1;stroke:none"
+         sodipodi:type="star" />
+    </g>
+    <g
+       id="g4358"
+       transform="matrix(0.81484685,0,0,1.0744632,-168.71641,-117.02488)"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4302"
+         d="m 420.98107,299.04093 26.51651,0"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4302-9"
+         d="m 421.10734,305.60691 26.51651,0"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4302-9-4"
+         d="m 434.00709,322.52697 0,-16.41498"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4302-9-4-8"
+         d="m 434.11306,299.67226 0,-16.41498"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4358-8"
+       transform="matrix(0,1.0143486,-1.0143486,0,421.14035,-253.16145)"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4302-2"
+         d="m 420.98107,299.04093 26.51651,0"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4302-9-45"
+         d="m 421.10734,305.60691 26.51651,0"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4302-9-4-5"
+         d="m 434.00709,342.24406 0,-36.13207"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4302-9-4-8-1"
+         d="m 434.11306,299.67226 0,-36.48416"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16.09458542px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#616bdf;fill-opacity:1;stroke:none;font-family:Sans"
+       x="209.74644"
+       y="268.58014"
+       id="text4396"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan4398"
+         x="209.74644"
+         y="268.58014">ground</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.20900154px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3660db;fill-opacity:1;stroke:none;font-family:Sans"
+       x="201.58995"
+       y="219.67938"
+       id="text4400"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan4402"
+         x="201.58995"
+         y="219.67938">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.20900154px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3660db;fill-opacity:1;stroke:none;font-family:Sans"
+       x="107.29861"
+       y="165.06721"
+       id="text4400-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan4402-1"
+         x="107.29861"
+         y="165.06721">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.32804298px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6165da;fill-opacity:1;stroke:none;font-family:Sans"
+       x="215.97868"
+       y="224.68945"
+       id="text4425"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan4427"
+         x="215.97868"
+         y="224.68945">s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.21790695px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6165da;fill-opacity:1;stroke:none;font-family:Sans"
+       x="100.01545"
+       y="207.53191"
+       id="text4429"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2158259,0.82248618)"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan4431"
+         x="100.01545"
+         y="207.53191">1</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 248.97603,187.12069 c 30.71429,-0.71429 16.42857,22.85714 37.14286,25 20.71428,2.14285 27.14286,-25 32.85714,-45 5.71429,-20 36.42857,-12.85715 36.42857,-12.85715"
+       id="path4435"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 247.54746,187.12068 -90.71428,-0.71429"
+       id="path4437"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <g
+       id="g4358-8-1"
+       transform="matrix(0,1.404406,-1.404406,0,903.92351,-470.52825)"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4302-2-5"
+         d="m 420.98107,299.04093 26.51651,0"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4302-9-45-2"
+         d="m 421.10734,305.60691 26.51651,0"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4302-9-4-5-7"
+         d="m 434.00709,342.24406 0,-36.13207"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4302-9-4-8-1-6"
+         d="m 434.11306,299.67226 0,-126.26733"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:26.59562683px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3660db;fill-opacity:1;stroke:none;font-family:Sans"
+       x="469.39716"
+       y="108.52596"
+       id="text4400-7-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan4402-1-4"
+         x="469.39716"
+         y="108.52596">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.83887672px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6165da;fill-opacity:1;stroke:none;font-family:Sans"
+       x="402.36017"
+       y="141.41742"
+       id="text4429-2"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2158259,0.82248618)"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan4431-3"
+         x="402.36017"
+         y="141.41742">1</tspan></text>
+    <g
+       id="g4358-8-1-8"
+       transform="matrix(1.404406,0,0,1.404406,-76.757074,-230.57763)"
+       inkscape:transform-center-x="32.635562"
+       inkscape:transform-center-y="-28.679742"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4302-2-5-5"
+         d="m 420.98107,299.04093 26.51651,0"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4302-9-45-2-7"
+         d="m 421.10734,305.60691 26.51651,0"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4302-9-4-5-7-6"
+         d="m 434.00709,342.24406 0,-36.13207"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4302-9-4-8-1-6-1"
+         d="m 434.11306,299.67226 0,-36.48416"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4358-8-1-8-8"
+       transform="matrix(1.404406,0,0,1.404406,-11.48592,-230.57764)"
+       inkscape:transform-center-x="32.635562"
+       inkscape:transform-center-y="-28.679738"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4302-9-4-5-7-6-7"
+         d="m 434.00709,342.24406 0.12448,-29.0512"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4302-9-4-8-1-6-1-9"
+         d="m 433.36616,287.60172 -0.12448,-24.5381"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4302-9-4-8-1-6-1-9-5"
+       d="m 605.66341,178.81656 -8.58096,-5.94623"
+       style="fill:none;stroke:#6056dc;stroke-width:2.8088119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4302-9-4-8-1-6-1-9-5-4"
+       d="m 590.40699,185.98649 15.06916,-7.17"
+       style="fill:none;stroke:#6056dc;stroke-width:2.8088119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4302-9-4-8-1-6-1-9-5-4-3"
+       d="m 590.16009,186.02071 14.0202,9.43832"
+       style="fill:none;stroke:#6056dc;stroke-width:2.8088119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4302-9-4-8-1-6-1-9-5-4-3-1"
+       d="m 604.40829,195.11157 -15.17549,7.69009"
+       style="fill:none;stroke:#6056dc;stroke-width:2.8088119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4302-9-4-8-1-6-1-9-5-2"
+       d="m 589.48518,202.89127 8.90149,6.46631"
+       style="fill:none;stroke:#6056dc;stroke-width:2.8088119;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <g
+       id="g4358-8-1-3"
+       transform="matrix(0,1.404406,-1.404406,0,902.52989,-361.03368)"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4302-9-4-5-7-1"
+         d="m 434.00709,342.03169 0,-43.80542"
+         style="fill:none;stroke:#6056dc;stroke-width:2.20215297;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4302-9-4-8-1-6-13"
+         d="m 434.11306,299.67226 0,-126.26733"
+         style="fill:none;stroke:#6056dc;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g4298-8"
+       transform="matrix(1.3845398,0,0,1.3845398,-33.363115,-312.85068)"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41">
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4272-7"
+         d="m 431.33514,406.35476 0,13.65193"
+         style="fill:none;stroke:#604cde;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         transform="translate(115.15739,-14.142136)"
+         inkscape:transform-center-y="2.0360275"
+         d="m 316.17777,445.3234 -3.52651,-6.10808 -3.5265,-6.10808 7.053,0 7.05301,0 -3.5265,6.10808 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="2.6179939"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="4.0720549"
+         sodipodi:r1="8.1441097"
+         sodipodi:cy="437.17929"
+         sodipodi:cx="316.17776"
+         sodipodi:sides="3"
+         id="path4296-4"
+         style="fill:#4e5ada;fill-opacity:1;stroke:none"
+         sodipodi:type="star" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:26.59562683px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3660db;fill-opacity:1;stroke:none;font-family:Sans"
+       x="478.43936"
+       y="206.94832"
+       id="text4400-27"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan4402-7"
+         x="478.43936"
+         y="206.94832">C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.37590408px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6165da;fill-opacity:1;stroke:none;font-family:Sans"
+       x="498.36111"
+       y="213.88496"
+       id="text4425-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan4427-3"
+         x="498.36111"
+         y="213.88496">s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:26.59562683px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#3660db;fill-opacity:1;stroke:none;font-family:Sans"
+       x="618.81165"
+       y="201.77896"
+       id="text4400-27-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan4402-7-9"
+         x="618.81165"
+         y="201.77896">R</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.38453972px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 427.85262,240.51172 0,-93.00667"
+       id="path4760"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.38453972px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 656.52311,239.98197 0,-93.00667"
+       id="path4760-5"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41" />
+    <text
+       xml:space="preserve"
+       style="font-size:33.88938141px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="375.58243"
+       y="213.8613"
+       id="text5336"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan5338"
+         x="375.58243"
+         y="213.8613">V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:33.88938141px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="666.56836"
+       y="215.11272"
+       id="text5336-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan5338-2"
+         x="666.56836"
+         y="215.11272">V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.14980507px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="687.35687"
+       y="221.76996"
+       id="text5361"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan5363"
+         x="687.35687"
+         y="221.76996">probe</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:17.14980507px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="394.5509"
+       y="222.95044"
+       id="text5361-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\JH218595\Documents\Notebooks\TP Master Fusion\IC-Hands-on_solutions_files\equivalent_circuit.png"
+       inkscape:export-xdpi="249.41"
+       inkscape:export-ydpi="249.41"><tspan
+         sodipodi:role="line"
+         id="tspan5363-6"
+         x="394.5509"
+         y="222.95044">line</tspan></text>
+  </g>
+</svg>
